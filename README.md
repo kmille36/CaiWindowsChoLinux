@@ -13,5 +13,12 @@ Nhớ thay https://yourdirectdownloadlinkhere.gz bằng link tải file gz của
 
 *Script này hỗ trợ cả MBR và UEFI.
 
+Một số hình ảnh Demo:
+
+- Chạy trên VPS Ubuntu tói đoạn này là đã hoàn tất chỉ cần đợi 20-30p để nó tự cài ( nếu Web VPS có hỗ trợ View Console có thể vào để xem quá trình cài đặt):
+![Alt text](https://i.ibb.co/LZZ0WSy/image.png "Screenshot")
+- Sau khi đợi tầm 30p và đây là hình ảnh khi login vào VPS ở port 3389 ( nhớ phải mở port này mới connect được VPS khi cài xong)
+![Alt text](https://i.ibb.co/VtZkKWF/image.png "Screenshot")
+
 
 

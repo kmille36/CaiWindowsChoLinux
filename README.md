@@ -26,5 +26,6 @@ Một số hình ảnh Demo:
 
 
 *Nguồn file sh: https://moeclub.org/
+*Sửa đổi và viế hướng dẫn: https://fb.com/thuong,hai.581
 
 

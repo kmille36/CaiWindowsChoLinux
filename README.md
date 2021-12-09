@@ -11,6 +11,7 @@ Cách sử dụng:
 sudo wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/kmille36/CaiWindowsChoLinux/main/InstallNET.sh' && bash InstallNET.sh -dd 'https://yourdirectdownloadlinkhere.gz'
 
 Nhớ thay https://yourdirectdownloadlinkhere.gz bằng link tải file gz của bạn ( thường là up ở dropbox )
+- Demo GZ của Windows 11 Enterprise: https://dl.dropboxusercontent.com/s/sug6d24yunostsu/Windows11Enterprise.gz
 
 *Script này hỗ trợ cả MBR và UEFI.
 

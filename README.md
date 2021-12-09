@@ -11,5 +11,7 @@ sudo wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubuserconten
 
 Nhớ thay https://yourdirectdownloadlinkhere.gz bằng link tải file gz của bạn ( thường là up ở dropbox )
 
+*Script này hỗ trợ cả MBR và UEFI.
+
 
 

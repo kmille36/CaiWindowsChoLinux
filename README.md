@@ -12,6 +12,7 @@ sudo wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubuserconten
 
 Nhớ thay https://yourdirectdownloadlinkhere.gz bằng link tải file gz của bạn ( thường là up ở dropbox )
 - Demo GZ của Windows 11 Enterprise: https://bit.ly/3xWPgHG
+- User/Pass: Administrator/Thuonghai001
 
 *Script này hỗ trợ cả MBR và UEFI.
 

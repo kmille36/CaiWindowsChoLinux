@@ -15,7 +15,7 @@ Nhớ thay https://yourdirectdownloadlinkhere.gz bằng link tải file gz của
 - Demo GZ của Windows 2022 Datacenter: https://bit.ly/3ITXLJ9
 - User/Pass: Administrator/Thuonghai001
 
-*Script này hỗ trợ cả BIOS và UEFI.
+*Script này hỗ trợ cả VPS BIOS và UEFI.
 
 
 Một số hình ảnh Demo:
